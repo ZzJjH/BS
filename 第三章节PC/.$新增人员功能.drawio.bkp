@@ -1,0 +1,180 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="第 1 页" id="Z7WlTIWOOIfVWCQcVLXl">
+    <mxGraphModel dx="983" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="krOYykdRR8GTAuKmE_HV-21" value="&lt;font face=&quot;宋体&quot;&gt;管理人员&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;startSize=23;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="180" height="510" as="geometry">
+            <mxRectangle x="80" y="310" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-28" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="50" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-29" value="&lt;font face=&quot;宋体&quot;&gt;点击“新增工人”&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;按钮&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="20" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-21" source="krOYykdRR8GTAuKmE_HV-28" target="krOYykdRR8GTAuKmE_HV-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="190" as="sourcePoint" />
+            <mxPoint x="390" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-34" value="&lt;font face=&quot;宋体&quot;&gt;填写工人基本信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="20" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-37" value="&lt;font face=&quot;宋体&quot;&gt;点击“确认”/“取消”按钮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="15" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-21" source="krOYykdRR8GTAuKmE_HV-34" target="krOYykdRR8GTAuKmE_HV-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="190" as="sourcePoint" />
+            <mxPoint x="100" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-63" value="&lt;font face=&quot;宋体&quot;&gt;点击“跳转”按钮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="10" y="370" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-80" value="&lt;font face=&quot;宋体&quot;&gt;选择作业人员佩戴设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="10" y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-84" value="&lt;font face=&quot;宋体&quot;&gt;点击“开始”按钮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-21">
+          <mxGeometry x="10" y="470" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-21" source="krOYykdRR8GTAuKmE_HV-80" target="krOYykdRR8GTAuKmE_HV-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="450" as="sourcePoint" />
+            <mxPoint x="340" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-26" value="&lt;font face=&quot;宋体&quot;&gt;主界面&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="330" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-31" value="&lt;font face=&quot;宋体&quot;&gt;弹出工人信息填写窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="95" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-39" value="&lt;font face=&quot;宋体&quot;&gt;管理员是否点击&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;“确认”&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="95" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-41" value="&lt;font face=&quot;宋体&quot;&gt;等待用户操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="95" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-26" source="krOYykdRR8GTAuKmE_HV-31" target="krOYykdRR8GTAuKmE_HV-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="190" as="sourcePoint" />
+            <mxPoint x="285" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-46" value="&lt;font face=&quot;宋体&quot;&gt;创建工人实例&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="20" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-26" source="krOYykdRR8GTAuKmE_HV-39" target="krOYykdRR8GTAuKmE_HV-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="190" as="sourcePoint" />
+            <mxPoint x="30" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-48" value="是" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="82" y="216" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-58" value="&lt;font face=&quot;宋体&quot;&gt;关闭填写窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="190" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-26" source="krOYykdRR8GTAuKmE_HV-39" target="krOYykdRR8GTAuKmE_HV-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="230" as="sourcePoint" />
+            <mxPoint x="100" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-60" value="否" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="208" y="181" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="krOYykdRR8GTAuKmE_HV-26" source="krOYykdRR8GTAuKmE_HV-46" target="krOYykdRR8GTAuKmE_HV-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="130" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-61" value="&lt;font face=&quot;宋体&quot;&gt;更新主界面列表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="20" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-89" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-26">
+          <mxGeometry x="125" y="470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-27" value="&lt;font face=&quot;宋体&quot;&gt;子界面&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="190" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-65" value="&lt;font face=&quot;宋体&quot;&gt;初始化对应作业人员子界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-27">
+          <mxGeometry x="20" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-66" value="&lt;font face=&quot;宋体&quot;&gt;显示界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-27">
+          <mxGeometry x="20" y="370" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-91" value="&lt;font face=&quot;宋体&quot;&gt;更新在线设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="krOYykdRR8GTAuKmE_HV-27">
+          <mxGeometry x="20" y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-29" target="krOYykdRR8GTAuKmE_HV-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="520" as="sourcePoint" />
+            <mxPoint x="420" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-37" target="krOYykdRR8GTAuKmE_HV-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-41" target="krOYykdRR8GTAuKmE_HV-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="530" as="sourcePoint" />
+            <mxPoint x="120" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="krOYykdRR8GTAuKmE_HV-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-61" target="krOYykdRR8GTAuKmE_HV-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="670" as="sourcePoint" />
+            <mxPoint x="460" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-63" target="krOYykdRR8GTAuKmE_HV-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="670" as="sourcePoint" />
+            <mxPoint x="460" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-84" target="krOYykdRR8GTAuKmE_HV-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="710" as="sourcePoint" />
+            <mxPoint x="420" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krOYykdRR8GTAuKmE_HV-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krOYykdRR8GTAuKmE_HV-91" target="krOYykdRR8GTAuKmE_HV-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="740" as="sourcePoint" />
+            <mxPoint x="550" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
